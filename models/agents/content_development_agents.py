@@ -9,7 +9,9 @@ os.environ["OPENAI_API_KEY"] = "NA"
 
 instructional_designer_tool = DirectoryReadTool(directory='./instructional-designer-resources')
 course_content = DirectoryReadTool(directory='../../course-content')
-file_tool = FileReadTool(name="HTML5 e CSS3 - domine a web do futuro - Autor (Casa do Código).pdf")
+file_tool = FileReadTool()
+content_expert_file_tool = FileReadTool(file_path="course_content/HTML5-e-CSS3-domine-a-web-do-futuro-Autor-_Casa-do-Código_.txt")
+instructional_designer_file_tool = FileReadTool(file_path="course_content/HTML5-e-CSS3-domine-a-web-do-futuro-Autor-_Casa-do-Código_.txt")
 
 llm = ChatOpenAI(
     model = "llama3:latest",
@@ -29,7 +31,7 @@ content_expert = Agent(
     "Extração de Informação: Extrai informações relevantes e precisas dos textos."
     "Validação do Conteúdo: Verifica a precisão das informações extraídas com base em fontes confiáveis e contextos adicionais."
   ),
-  tools=[course_content, file_tool],
+  tools=[course_content, content_expert_file_tool],
   allow_delegation=True,
   llm=llm
 )
@@ -48,7 +50,7 @@ instructional_designer = Agent(
     "Metodologia Pedagógica: Aplica princípios pedagógicos para garantir a efetividade do aprendizado."
     "Criação de Objetivos de Aprendizagem: Define objetivos claros para cada módulo e unidade."
   ),
-  tools=[instructional_designer_tool, file_tool],
+  tools=[instructional_designer_tool, instructional_designer_file_tool],
   allow_delegation=True,
   llm=llm
 )
