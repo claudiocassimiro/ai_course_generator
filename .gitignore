@@ -1,2 +1,4 @@
 .env
 db
+models/agents/__pycache__
+models/tasks/__pycache__
