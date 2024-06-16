@@ -1,0 +1,1206 @@
+=1=
+       FICHA CATALOGRAFICA
+
+
+
+
+            MARCOS MENDES
+                (96) 99167-6890
+
+
+
+
+                 CORPO EDITORIAL
+
+                       Editor-chefe:
+Esp. Jader Luís da Silveira | Grupo MultiAtual Educacional
+
+                    Editora-executiva:
+          Esp. Resiane Paula da Silveira | SMEF
+
+                         Editores
+           Ma. Heloisa Alves Braga | SEE-MG
+           Me. Ricardo Ferreira de Sous | UFT
+          Esp. Ricael Spirandeli Rocha | IFMG
+    Me. Ronei Aparecido Barbosa | FSULDEMINAS
+     Dr. Fabrício dos Santos Ritá | IFSULDEMINAS
+     Dr. Claudiomir Silva Santos | IFSULDEMINAS
+         Me. Guilherme de Andrade Ruela | UFJF
+          Ma. Luana Ferreira dos Santos | UESC
+         Ma. Ana Paula Cota Moreira | FUNCEC
+      Me. Camilla Mariane Menezes Souza | UFPR
+         Ma. Jocilene dos Santos Pereira | UESC
+   Esp. Alessandro Moura Costa | Ministério da Defesa
+   Ma. Tatiany Michelle Gonçalves da Silva | SEE-DF
+         Dra. Haiany Aparecida Ferreira, | UFLA
+         Me. Arthur Lima de Oliveira | CECIERJ
+
+
+
+
+                        =2=
+Espero chegar a um tempo em que não vamos precisar
+        mais falar em Educação à Distância.
+
+             Será educação e ponto.
+               Arlette Guibert, 2015
+
+
+
+
+                      =3=
+      Esta publicação traz uma parte do meu TCC,
+  na esfera da Especialização em Design Instrucional,
+               ofertada pelo SENAC/SP.
+
+
+
+ Omiti o nome da Instituição que foi o foco do trabalho,
+bem como as partes que descreviam a referida instituição.
+
+
+
+         O conteúdo aqui apresentado é a parte
+           prática do planejamento do curso.
+
+
+
+                     Bons Estudos!
+
+
+
+
+                         =4=
+Sumário
+
+   DESIGN INSTRUCIONAL
+
+   1 | MODELO DE DESIGN INSTRUCIONAL ......….... 07
+   1.1 | Design Instrucional do curso pesquisado ...…,.……………..                                      13
+   1.1.1 | Modelo Pedagógico …………..........................…….............                          13
+   1.1.2 | Estratégias pedagógicas ....................................................…..          14
+   1.1.3 | O ambiente virtual ..................................................................    15
+   1.1.4 | O uso de mídias ......................................................................   16
+   1.1.4 Estrutura do curso         .............................................................   37
+
+   1.2 | Estrutura do Curso ……………………………...…………… 17
+   1.2.1 | Análise de Conteúdo ....................................….......…………. 18
+   1.2.2 | Avaliação ………….................................…..........…………. 18
+   1.2.3 | Linguagem ...................……………………...………...……. 22
+   1.2.4 | Interface Gráfica ……………………………...…………….. 23
+   1.2.5 | Estrutura Pedagógica de conteúdos ………………………… 25
+
+   1.3 | FORMAS DE INTERAÇÃO E FEEDBACK ...……………..……….…..
+   26
+   1.3.1 | Fórum .............................................……………………........ 29
+   1.3.2 | Envio de Atividade .........................………………............... 29
+
+
+
+
+   2| DESIGN DO CURSO ................................................... 30
+
+
+   3| CONSIDERAÇÕES FINAIS ....................................... 31
+
+
+   4| REFERÊNCIAS BIBLIOGRÁFICAS ...................... 32
+
+
+
+
+                                                 =5=
+DESIGN INSTRUCIONAL
+
+Talvez a tarefa mais árdua de um projeto de Design Instrucional é delinear o
+modelo. São muitas variáveis, para atender um público-alvo sempre
+homogêneo na forma de aprender, e isto requer do Projetista que conheça as
+
+       estratégias didáticas e pedagógicas utilizadas com maior frequência
+       nesses ambientes: Pedagogia diferenciada, Aprendizagem independente,
+       Fundamentos psicológicos de trabalhos em grupos, Orientação para a
+       efetivação de formas de aprendizagem, Fundamentos sobre inteligências,
+       Teorias de aprendizagens. (MUNHOZ, 2014, p.67)
+
+E esta variedade não se prende as estratégias didáticas. O Projetista deve estar
+apto a definir qual o modelo de design do curso: design aberto, design fechado,
+etc., e se o curso será de apoio ao presencial, totalmente a distância ou mista
+(blended learning); e ainda, um tema atual e que desperta dúvidas: os tão
+falados cursos MOOC e seus correlatos. E na intenção de melhor compreender
+sobre os MOOCs, se fez abaixo um quadro explicativo, onde é possível ver a
+diferença entre eles.
+Quadro 1: Explicação das Novas Siglas de Cursos
+
+   SIGLA        SIGNIFICADO                          CONSIDERAÇÕES
+              Massive             São cursos para atender um público em Massa. Pelo
+              Open                volume de alunos, não há a previsão de Tutores. Porém, os
+   MOOC
+              Online              alunos são convidados a se indicarem como Auxiliares.
+              Course              Geralmente são gratuitos.
+                                  É a já conhecida Educação Corporativa.
+              Corporate           O foco é formar os colaboradores da empresa para melhoria
+              Open                da performance.
+   COOC
+              Online              Outra utilização destes cursos é quando se implanta um
+              Course              novo sistema, ou há atualização do aplicativo na empresa.
+                                  E ainda, na formação de colaboradores recém contratados.
+              Small               Os cursos SPOC são oposto dos cursos MOOC: atendem a
+              Private             uma pequena turma, e são pagos pelos participantes.
+   SPOC
+              Open                Se poderia dizer que são os cursos de extensão, e podem
+              Course              ser de 05h a 40h.
+
+Elaborado pelo autor,
+
+
+
+
+                                        =6=
+1 | MODELO DE DESIGN INSTRUCIONAL DO CURSO
+
+Quando se fala sobre um curso, independente do nível de ensino e a qual
+público alvo se quer alcançar, se utiliza uma ação didática.
+
+É ela que permite a realização do processo ensino-aprendizagem, e que, com o
+advento dos cursos online, esta ação se estende além do segmento da educação
+escolar e chega no campo profissional, de onde um novo profissional planeja a
+ação educativa: O DESIGNER INSTRUCIONAL.
+
+Por conseguinte, a ação didática quando ofertada online, requer uma nova
+forma de ser planejada, ofertada e avaliada.
+
+E por este motivo, deverá ser muito bem concebida, pois pela sua natureza
+online, não se tem o professor no exato momento da aprendizagem, e nem
+tampouco se tem o professor para dirimir dúvidas.
+
+É por isso que para iniciar o delineamento da ação pedagógica se deve definir
+de início alguns parâmetros, e somente após se partir para delinear o curso em
+si, para o qual o Designer Instrucional deve definir:
+
+a) Formas de Ensino
+b) Teorias ou Modelos Pedagógicos
+c) Abordagens e Estratégias Pedagógicas.
+
+Figura 1: Ação Educativa em EaD
+
+
+
+
+                                    =7=
+Kensky e Schultz, 2014, p. 3
+
+Entre as Formas de Ensino, o Designer Instrucional deverá conhecer a
+pedagogia, andragogia e a heutagogia, para que possa definir qual será
+utilizada.
+
+No quadro abaixo, Kensky e Shcultz (2014), demonstram como estas formas se
+realizam em cursos online.
+
+
+
+Quadro 1: Diferença entre Pedagogia, Andragogia e a Heutagogia
+
+
+
+
+KENSKI e SCHULTZ, 2014.
+
+
+
+Pelo que se pode perceber, o curso a que este projeto propõe realizar será
+baseado na Andragogia, devido ser direcionado ao aluno adulto, e ter a
+presença virtual de um tutor durante a realização do curso, em que o Professor
+define o que será estudado, com base em um cronograma, e ao aprendiz
+administra o melhor momento de estudar, desde que atenda ao cronograma das
+atividades.
+
+Andragogia – Refere-se à arte ou ciência de orientar adultos a aprender.
+
+       Este conceito é defendido por alguns autores que o empregam, em
+       contraposição ao conceito, segundo eles, mais restrito, de pedagogia, que
+       se refere à educação de crianças (...) a andragogia é um conceito amplo
+       de educação do ser humano, em qualquer idade.
+
+A Unesco (Organização para a Educação, a Ciência e a Cultura das Nações
+Unidas) já utilizou o termo para se referir à educação continuada.
+
+
+
+
+                                        =8=
+A primeira proposta para o uso do termo andragogia foi apresentada por
+Lindeman, na década de 20, mas na década de 1970 esta teoria se destacou,
+ganhando maior adesão no mundo corporativo. (Kenski & Schultz, 2014, p. 4)
+
+Uma vez definida a forma de ensino, Andragogia, o Designer Instrucional
+deverá conhecer sobre as Teorias e Modelos Pedagógicos, para que possa
+indicar qual Teoria servirá de base para se obter sucesso na ação educativa.
+
+      A Teoria, é o conhecimento especulativo, puramente racional, sobre
+      determinado fenômeno ou situação. As teorias pedagógicas refletem
+      visões de mundo e concepções – de homem, de sociedade e da própria
+      finalidade da educação. Elas informam sobre um determinado momento
+      de uma cultura e sobre as aspirações sociais de um povo. (Kenski &
+      Schultz, 2014, p. 6)
+
+Isso nos permite compreender que as teorias pedagógicas organizam as
+premissas que vão orientar a ação educativa que levará o aluno a aprender. E
+sempre lembrando que se trata de cursos online, e mais do que nunca essas
+"Essas teorias não são estáticas.
+
+Elas evoluem e se transformam de acordo com as necessidades da sociedade e
+com o avanço de possibilidades tecnológicas disponíveis para se fazer
+educação" (Kensky e Schultz, 2014).
+
+Além da Teoria Pedagógica, há de ser definido o modelo pedagógico a ser
+utilizado, modelo este que informa quais serão as abordagens seguidas, para
+que, finalmente, se possa traçar as estratégias de aprendizagem que levarão à
+aprendizagem do aluno.
+
+      Esta base teórica vai orientar a maneira como o conteúdo será trabalhado
+      e como irão ocorrer as interações professor-aluno-objeto de estudo.
+      Preocupa-se em caracterizar a situação de aprendizagem,
+      contextualizando-a. Nesse triângulo (professor, aluno e objeto), são
+      estabelecidas relações sociais em que os sujeitos irão agir de acordo com
+      o modelo definido. (Kenski & Schultz, 2014, p. 6)
+
+No quadro abaixo, é possível compreender a segmentação das Abordagens
+Pedagógicas (Positivista, Interpretativa e Crítica), onde se organizam as
+Estratégias pedagógicas, que podem ser Behavioristas, Construtivistas,
+SocioInteracionista ou PósModerna.
+
+
+                                       =9=
+Quadro 7: Abordagens Teóricas
+
+
+
+
+Kenski & Schultz, 2014, p. 2
+
+
+
+Este quadro acima se pode dizer que é ilustrativo em sua essência, pois de
+forma inequívoca se pode perceber a intersecção entre as abordagens e as
+estratégias pedagógicas.
+
+       Estratégias pedagógicas – Referem-se aos instrumentos e atividades
+       planejados para a realização da proposta explicitada de determinado
+       curso ou disciplina. Elas podem estar ligadas ao perfil ou às
+       competências a serem desenvolvidas pelos alunos em relação aos
+       conteúdos, habilidades, atitudes e valores. (KENSKI e SCHULTZ, 2014)
+
+Se tem então, a partir deste conhecimento acima, que é na estratégia
+pedagógica que a aprendizagem se desenvolve, eis que a forma que o D.I. irá
+criar as atividades é que vai permitir que o aluno alcance os objetivos
+delineados quando da proposição do curso.
+
+E ressalte-se ainda que, as atividades em si não implicam diretamente em uma
+avaliação, mas são um mix de acesso a conhecimentos (conteúdos) e produção
+de saberes (atividades), que se seguidos pelo aluno conforme o planejado pelo
+D.I., certamente alcançará o sucesso esperado quando se matriculou.
+
+Para auxiliar o D.I. neste processo de definir as estratégias, Filatro e Palange
+(2014), organizaram os Modelos de D.I. assim:
+
+
+
+
+                                      = 10 =
+Quadro 8: Modelos de D.I.
+
+ MODELO                        CONTEÚDOS                                     TUTORIA
+
+                                                            esclarecimento de dúvidas dos aprendizes e
+                  são previstos e programados, sem
+ Fechado                                                    na detecção de possíveis problemas nos
+                  possibilidade de mudanças
+                                                            materiais didáticos produzidos
+                                                            faz as adaptações no planejamento inicial
+                                                            dependendo da situação e da realidade dos
+                  são menos estruturados e permitem maior
+ Aberto                                                     participantes.
+                  intervenção da tutoria no processo
+                                                            Pode modificar e reestruturar o curso tendo
+                                                            como referência a aprendizagem.
+                 preparados especialmente para o curso,
+                 com exercícios e avaliações individuais
+                                                            Interação entre os cursistas.
+ Misto           automatizadas.
+                                                            Autonomia para alterar parte do Conteúdo.
+                 materiais complementares, com links para
+                 textos e mídias disponíveis na internet.
+                 Desenvolvido de acordo com o público-
+                                                            Interação constante entre os cursistas.
+ Contextualizado alvo, e dentro da especificidade que o
+                                                            Atuação como Gestor de projetos.
+                 curso se propõe.
+Elaborado pelo Autor.
+
+
+
+
+                                           = 11 =
+Filatro e Palange (2014), organizaram um quadro com as Estratégias de Ensino
+que podem ser usadas pelo D.I. para delinear as atividades do curso que
+desenvolve.
+
+Quadro 9: Estratégias de Ensino
+
+
+
+
+Filatro e Palange (2014)
+
+
+
+
+                                   = 12 =
+1.1 | Design Instrucional específico do curso "Formação de Tutores para
+Educação Corporativa"
+
+O contexto do curso que ora se propõe é uma situação real, exequível e que será
+apresentada para aprovação pelo Conselho Pedagógico da EJAP no 1o
+Semestre de 2018.
+
+Assim, com exceção dos Custos levantados, todo este projeto será implantado
+de acordo com os tópicos aqui desenvolvidos, e a partir do que foi aprendido e
+explanado sobre a configuração pedagógica do curso, se pode indicar que:
+
+O curso será ofertado totalmente à distância, em plataforma Moodle versão 3.3.
+
+
+
+
+1.1.1 | Modelo Pedagógico
+
+Devido à natureza do curso ser destinada sempre ao aluno adulto, e que a priori
+são ativos profissionalmente, se fará uso da Andragogia, pois o cronograma
+segue o planejamento da instituição onde o cursista não pode adaptar o tempo
+de estudo de acordo com suas demandas.
+
+A partir desta definição, se definiu como padrão a Teoria Crítica, a qual "busca
+analisar como a estrutura social condicionada à ação humana".
+
+Esta abordagem será desenvolvida no curso através do foco das Atividades
+recaírem sobre a produção de soluções à situações apresentadas, onde se busca
+levar o cursista a compreender os conteúdos de ensino, e esteja apto para
+desenvolver sua atividade tanto com base no que aprendeu quanto à sua
+"bagagem cultural" (experiência de vida, cotidiano profissional, vivência como
+pessoa humana).
+
+Para dar vida a esta abordagem, se percebeu que se poderia fazer uso destas
+duas abordagens teóricas: SocioInteracionista ou Pós-Moderna.
+
+A partir do que se construiu para este curso, e com base nos conteúdos
+didáticos do curso, foram feitos estudos, abstrações e análises do que se quer
+atingir, e se definiu que a abordagem Sócio-Interacionista seria a mais
+indicada, eis que
+                                     = 13 =
+       As interações permitem a assimilação de informações que serão
+       organizadas internamente, de maneira personalizada. A aprendizagem se
+       dá, portanto, na articulação entre dois momentos distintos: o primeiro, no
+       plano social, pela interação com o meio; o segundo, no plano individual,
+       por processos mentais de organização interna dos conhecimentos.
+       (Kenski & Schultz, 2014)
+
+  Ao se ler esta acepção acima, se percebe que a ideia inicial do curso se
+desenvolve através deste viés, onde as aulas seguem sempre 2 momentos: A
+compreensão dos conteúdos e a produção de saberes.
+
+Em momentos distintos, de acordo com o objetivo educacional que se deseja
+atingir, ora o aluno aprende junto com seus colegas, ora aprende sozinho, mas
+em todo o curso ele é levado a interagir, pois o padrão do Módulo segue esta
+dinâmica:
+
+  a. Vídeo introdutório
+
+  b. Inicia um Fórum que dura o módulo todo
+
+  c. Leitura de um texto/imagem/situação problema
+
+  d. Envio de uma atividade (individual ou em grupo)
+
+  e. Tutoria pelo WhastApp
+
+
+
+
+1.1.2 | Estratégias pedagógicas
+
+O Material didático do curso nos apresenta diversas estratégias pedagógicas
+para uso em EaD, e para o Designer Instrucional cabe a missão de definir as
+estratégias de acordo com a abordagem escolhida e de forma que se atenda o
+modelo de D.I. definido. Assim, com base no que já foi estudado e descrito
+neste trabalho, foi possível escolher estas estratégias:
+
+
+
+Quadro 11: Estratégias Pedagógicas utilizadas no curso
+ ESTRATÉGIA                           UTILIZAÇÃO NO CURSO
+
+                                        = 14 =
+ Aquisição de Conhecimentos        Ler/Assistir os Conteúdos Obrigatórios
+
+ Atividades em Grupos              Participar do Fórum com os quesitos indicados
+
+ Estudo de Caso                    Analisar a situação/problema e indicar a solução
+
+ Estudo do Meio                    Narrar uma situação vivenciada pelo cursista
+
+ Pequenos Grupos                   Tarefa com os quesitos indicados
+
+ Estudo Dirigido                   Envio de Tarefa Individual
+Elaborado pelo Autor
+
+
+
+
+1.1.3 | O ambiente virtual
+
+O mercado oferece diversas plataformas, e a escolha delas requer uma especial
+dedicação em saber o que elas oferecem e o que se precisa para a realização do
+curso.
+
+       Os ambientes virtuais de aprendizagem podem ser definidos, na
+       perspectiva do usuário, como ambientes que simulam os ambientes
+       presenciais de aprendizagem com uso das Tecnologias da Informação e
+       da Comunicação. (ARAUJO e MARQUES, 2009, p. 359)
+
+O foco do curso é que o cursista possa acessar o curso também pelo celular,
+aproveitando o recurso do Moodle em poder salvar a aula no aparelho para
+depois acessar mesmo sem internet, e por isso o curso dará prioridade para as
+vídeo-aulas e podcast, embora se faça uso de Textos, Slides e Infográficos.
+
+Assim, a demanda da plataforma requer:
+
+  a) Acesso a vídeo aulas
+
+  b) Acesso a textos
+
+  c) Acesso a slides
+
+  d) Acesso a links externos
+
+  e) Atividade Fórum
+
+                                     = 15 =
+  f) Atividade Envio de Tarefa (texto, vídeo ou áudio)
+
+  g) Envio de Mensagem
+
+  h) Utilizar o curso pelo celular
+
+Se fez primeiro um levantamento de algumas plataformas em potencial, onde se
+selecionou estas: EaDBox, Moodle, BlackBoard, Udemy e TimTec, porém, do
+decorrer do processo de experimentação, foi determinado pela Direção da
+Instituição que iria ser utilizado o ambiente Moodle.
+
+A Plataforma Moodle tem capacidade de ser utilizada por muitas pessoas ao
+mesmo tempo, e tem uma interface bem “leve”, isenta de muitos botões e
+recursos desnecessários para o aluno enquanto assiste a aula.
+
+      Na sociedade da informação e do conhecimento, os AVAs propiciam o
+      redimensionamento do ensinar e o aprender que, antes, era realizado
+      principalmente no espaço escolar. Esse redimensionamento permite que
+      o espaço e o tempo de aprendizagem sejam ampliados e o conceito de
+      ensinar tome, por conseguinte, novas proporções.       (ARAUJO e
+      MARQUES, 2009, p. 359)
+
+Neste contexto de ampliar o espaço e o tempo de aprendizagem, tem analogia
+com uma das caraterísticas mais interessantes do Moodle: ela é Responsiva, o
+que transforma a plataforma em uma versão para celular, e ainda mais
+interessante ainda: tem a possibilidade de utilização pelo aplicativo
+desenvolvido pela própria desenvolvedora do sistema.
+
+Outra funcionalidade é emissão automática de Certificados e Atestados de
+participação, quando o cursista cumpre o curso.
+
+
+
+1.1.4 | O uso de mídias
+
+Como o foco do curso é um cursista adulto, que já tua profissionalmente, se
+espera que seu tempo para estudos seja limitado, e principalmente, terá um
+tempo em seu expediente para se dedicar ao curso, as aulas serão
+prioritariamente em vídeo-aulas, organizadas no contexto de micro-aulas, e que
+a cada 5min de vídeo, o cursista tem uma avaliação parcial a cumprir.
+
+
+                                     = 16 =
+Mas claro, haverá o uso de textos em PDF, que serão utilizados pelos cursistas
+para desenvolver as atividades explanadas na vídeo-aula, e ainda, se faz uso de
+links externos a conteúdos previamente analisados, validados, e obtido
+autorização para uso (aqueles que não forem sob licença creative commons)
+
+Em ocasiões bem específicas, se fará uso de podcasts, como por exemplo ao
+final de cada módulo, com um resumo do tema estudado.
+
+E ainda, como a ideia da Tutoria do curso é ser realizada via WhatsApp, se faz
+uso intensivo de ScreenCast, para que o Tutor possa auxiliar o cursista no uso
+da plataforma.
+
+
+
+1.2 | ESTRUTURA DO CURSO
+
+O curso será desenvolvido em 3 Módulos, perfazendo um total de 100h/a.
+
+Ao final, será emitido um Certificado com a Titulação de TUTOR ONLINE
+PARA EDUCAÇÃO CORPORATIVA
+
+Estes módulos são assim organizados:
+
+1. Fundamentos de EaD
+1.1 Conceitos de EaD
+1.2 Panorama Histórico da EaD
+1.3 Legislação da EaD
+
+
+2. O Aluno Virtual
+2.1 Quem é o aluno virtual
+2.2 Tipos de Aprendizes
+
+
+3. O Professor OnLine
+3.1 Papéis do Professor OnLine
+3.2 A arte de fazer um feedback em EaD
+3.3 Avaliando em cursos
+
+
+
+
+                                    = 17 =
+1.2.1 | Análise de Conteúdo
+
+O curso se propõe a ser inovador em vários aspectos na concepção das aulas,
+fazendo uso de metodologias de aprendizagem atuais, tais como uso de
+microaulas (nas videoaulas), estudo dirigido, problematização, estudo de caso e
+Fórum.
+
+A ideia é sempre iniciar cada tópico com uma vídeo-aula, de até 15 minutos,
+organizados em 3 momentos: o professor apresenta o tema, faz sua explanação
+sobre o assunto, e explica as atividades de avaliação.
+
+Estas atividades levam o cursista a ler um texto, ou acessar um
+slide/infográfico, o ainda, participar de uma aula narrada.
+
+Os conteúdos estarão disponíveis na Plataforma de Cursos, onde o cursista que
+desejar utilizar o aplicativo para smartphones ou para tablet poderá salvar os
+conteúdos para seu aparelho, e acessar o curso sem ter acesso à internet.
+
+Contudo, esta funcionalidade alcança ainda as atividades de avaliação, que
+permite que o cursista responda sua atividade off-line e quando o aparelho se
+conecta na internet, ele envia a atividade à plataforma.
+
+Ainda sobre a funcionalidade do aplicativo, se faz uma ressalva em relação aos
+conteúdos de não-autoria do curso, pois como estarão disponíveis apenas os
+links, ao se usar a opção off-line estes conteúdos não ficam salvos no app do
+aparelho do usuário.
+
+
+
+1.2.2 | Avaliação
+
+A avaliação sempre é um momento tenso na esfera do aluno, e em especial na
+EaD, ela deve ser bem integrada ao que foi proporcionado em nível de
+conteúdos, pois estes devem ser suficientes para os quesitos das atividades
+avaliativas.
+
+Pontualmente, Freire (2009) orienta sobre as avaliações em abordagens Pós-
+Modernistas, apresentando 3 dimensões que deverá ser observada pelo D.I.:
+
+                                    = 18 =
+      a) Incorpore na avaliação as experiências cotidianas de aprendizagem
+      dos alunos, sempre que possível. A avaliação deve ser integrada,
+      considerando essas experiências significativas de aprendizagem.
+
+      b) Inclua todas as ações e desempenhos críticos na avaliação. Incorpore
+      os resultados e desempenhos em diferenciados contextos e situações.
+      Agregue diferentes perspectivas críticas no processo avaliativo: a
+      autoavaliação, a avaliação pelos pares, a avaliação coletiva, etc.
+
+      c) Use avaliações informais. Elas referem-se principalmente às
+      observações relacionadas à linguagem corporal, expressões faciais e ao
+      comportamento em espaços diferenciados de aprendizagem. Essas
+      observações podem complementar as avaliações formais e definir ajustes
+      no processo avaliativo.
+
+Estas orientações serviram de base para que se criasse a estrutura de avaliação
+do curso, em especial a 3a orientação, por se tratar de curso online, esta
+dimensão só poderá ser percebida nos Fóruns, onde se organizará critérios a
+serem atendidos pelos cursistas para alcançarem aprovação.
+
+Neste sentido, para o curso proposto, foi possível delinear assim:
+
+As atividades de avaliação ocorrem em 3 momentos:
+
+a) Após a vídeo-aula, com respostas dissertativas aos quesitos perguntados pelo
+professor durante sua explanação.
+
+b) Durante todo o módulo, com a participação no Fórum do Módulo.
+
+c) ao final de cada tópico, com base na leitura indicada;
+
+Como o cursista só avança para a aula seguinte se cumprir a anterior, o cursista
+poderá repetir a atividade até que tenha êxito.
+
+O planejamento seguirá este mapeamento:
+
+
+
+
+                                      = 19 =
+Quadro 12: Mapa do conteúdo
+  Temas Módulos
+                                                                Materiais                           Avaliações
+                                       Objetivos específicos                    Estratégias
+                        Subtemas                             (textos, vídeos,                  (fixação, verificação,
+                                        de aprendizagem                         (atividades)
+                                                             animações etc.)                     diagnóstica, etc.).
+
+                                                                                               Avaliação de Fixação
+                       Conceitos de        Aprender os                           Assistir à
+                                                                 VideoAula                      (Respostas sobre a
+                       EaD               conceitos de EaD                          Aula
+                                                                                                       aula)
+  Fundamentos de EaD
+
+
+
+
+                       Panorama             Delinear o
+                                                                Slide (só com   Acompanhar     Avaliação Formativa
+                       Histórico da     panorama histórico
+                                                                Infográficos)     o slide            (Fórum)
+                       EaD                   da EaD
+
+                       Legislação          Conhecer a                            Acessar à     Avaliação Somativa
+                                                                Aula Narrada
+                       da EaD           Legislação da EaD                       Aula Narrada    (Estudo Dirigido)
+
+
+                                                                                               Avaliação de Fixação
+                        Quem é o         Conhecer o perfil                       Assistir à
+                                                                 VideoAula                      (Respostas sobre a
+  O Aluno Virtual
+
+
+
+
+                       Aluno Virtual     do Aluno Virtual                          Aula
+                                                                                                       aula)
+
+                        Tipos de         Explorar os Tipos      Slide (só com   Acompanhar     Avaliação Formativa
+                       Aprendizes         de Aprendizes         Infográficos)     o slide            (Fórum)
+
+
+                         Papéis do
+                                        Delinear os Papéis      Slide (só com   Acompanhar     Avaliação Formativa
+                         Professor
+                                        do professor Online     Infográficos)     o slide            (Fórum)
+                          OnLine
+  O Professor OnLine
+
+
+
+
+                         A arte de
+                         fazer um         Aprender sobre                         Assistir à    Avaliação de Fixação
+                                                                 VideoAula
+                       feedback em           feedback                              Aula         (Tarefa Individual)
+                           EaD
+                        Avaliando        Conhecer os tipos
+                                                                                               Avaliação Somativa
+                        em cursos        de Avaliação em               Texto     Ler o texto
+                                                                                                (Estudo Dirigido)
+                         OnLine                EaD
+Elaborado pelo Autor.
+
+
+
+
+                                                              = 20 =
+O Conteúdo a ser utilizado no curso é definido em 4 fontes:
+
+a) Autoria Própria (textos e vídeo-aulas);
+
+b) Uso de Conteúdos em Creative Commons;
+
+c) Indicação de Bibliografia licenciada para o período do curso;
+
+d) Uso de publicações online, mediante autorização por e-mail;
+
+
+
+Este fluxo de conteúdos seguirá um padrão assim definido:
+
+a) Roteiro de conteúdos definido pelo D.I.
+
+b) Pesquisar obras na Bibliografia licenciada
+
+c) Verificar conteúdos sob licença Creative Commons
+
+d) Pesquisar conteúdos online relacionados ao curso
+
+e) Redação do Texto Base
+
+f) Definição da Lista de Links de cada tópico
+
+Após pronto, o conteúdo será submetido ao Autor deste Projeto e a um dos
+Tutores que irá atuar no curso, para que possa validar o conteúdo e fazer uma
+análise se o conteúdo supre o cursista com conhecimentos suficientes para
+desenvolver as avaliações.
+
+O processo de validação será feito de forma remota, onde os envolvidos
+receberão por e-mail os textos, e terão 2 dias para analisar o texto de cada
+tópico do curso.
+
+
+
+
+                                      = 21 =
+1.2.1.1 | Linguagem
+
+A linguagem do curso é um ponto igualmente importante em sua definição, eis
+que deve observar o público-alvo para não causar efeitos negativos no processo
+da comunicação.
+
+Se sabe que o curso alcançará o cursista adulto.
+
+Isso leva a uma linguagem bem elaborada, mas sem ser formal, ao mesmo
+tempo em que se pretende promover um ambiente descontraído (através do
+grupo de Tutoria no WhatsApp), e organizado (Plataforma Moodle), onde se
+espera uma participação ativa, produtiva e interativa por parte dos participantes
+do curso.
+
+No contexto do Designer Instrucional estar definindo a estrutura de linguagem
+a ser seguida, ele deve considerar que:
+
+       Embora existam classificações, elas não são definitivas, nem um texto é
+       exclusivamente de um tipo ou de outro. Lembre-se sempre que a
+       linguagem é semovente (está em movimento) e se modifica pelo uso de
+       seus usuários. Daí, por exemplo, que a linguagem dos dias de hoje seja
+       diferente daquela falada no século passado, ou que no norte do país a fala
+       difira da que é falada no sul. (MARQUARDT, 2014, p 3)
+
+Esta orientação acima foi considerada na elaboração dos textos, onde se tem
+uma preferência pela linguagem dialógica, onde se tem por objetivo criar
+possibilidades de comunicação entre aprendiz, professor e conteúdo.
+
+Quanto aos gêneros textuais, e considerando que se trata de um curso voltado a
+tutoria, se utilizará como estes tipos de textos:
+
+a) descritivo/explicativo;
+
+b) Narrativa Situacional (estudo de caso);
+
+b) Normativos;
+
+c) Não verbais
+
+Necessário lembrar que a linguagem usada no curso vai além da linguagem
+textual, pois se faz uso de fotos, ilustrações e infográficos, na intenção de
+"quebrar" a frieza de um texto.
+                                        = 22 =
+Quadro 13: Momentos da Construção Cultural
+                                                                        CULTURA
+                  TIPO DE
+  CULTURA                        OLHAR              ÊNFASE           COMUNICACIONA
+                COMUNICAÇÃO
+                                                                           L
+  Tradicional                                        O aqui
+                    Oral         Estático                                Local
+     Rural                                          O Agora
+                                                 Cadeia Linear
+   Industrial      Escrita        Linear                                de massa
+                                                Anseio pelo futuro
+                                                  Onipresença
+   Eletrônica     Simbólica    Hipertextual     Descontinuidade          Digital
+                                                 Interatividade
+Freire, 2008
+
+
+
+
+1.2.1.2 | Interface Gráfica
+
+O curso seguirá a identidade visual de acordo com o padrão da Plataforma
+Moodle, sem customização.
+
+No acesso ao curso, o cursista irá ter acesso à tela de Login, onde vai inserir seu
+e-mail e senha. Neste tela, se tem apenas os campos “Digite seu e-mail” e
+“Digite sua senha”, e em cima a Logomarca. (a ser desenvolvida).
+
+Após o login ser aceito pela plataforma, a plataforma leva o cursista ao menu
+com a lista dos cursos onde está matriculado. Esta tela, terá a logomarca.
+
+Após a escolha o curso a ser estudado, o sistema leva o cursista à aula do curso,
+com as seções: aula em vídeo, texto base e avaliação.
+
+Se fez a opção das cores Azul Royal e Laranja, e a fonte utilizada é a família
+MyriadPRO.
+
+Seguindo o padrão do Moodle, os conteúdos são apresentados em links, com
+exceção aos vídeos, que poderão ser publicados de 2 formas:
+
+
+
+
+                                       = 23 =
+  a) No canal no YouTube, hospedado como “Não Listado”. Estes vídeos,
+quando inseridos no Moodle, irão aparecer automaticamente quando acessados
+no link.
+
+  b) Dentro da plataforma, inseridos pelo Administrador do curso.
+
+Estas diferenciações devem ser observadas no planejamento de mídias, pois
+uma das funcionalidades do Aplicativo para celulares é "Baixar" o vídeo para o
+celular, e assistir depois mesmo sem internet, e caso o vídeo esteja hospedado
+no YouTube, não poderá ser “baixado” no Aplicativo.
+
+
+
+Uso das imagens
+
+Todo curso requer uso de imagens na sua concepção. Seja na propaganda,
+hotsite, materiais didáticos e até mesmo o certificado, a mídia deve ser
+considerada parte integrante de todo o processo educacional, pois
+
+      Ao se trabalhar com a mídia na educação, não se pode compreendê-la
+      apenas a partir da perspectiva antropológica ou cultural, mas é preciso
+      considerar os aspectos COMUNICACIONAIS através dos séculos e da
+      história cultural que a vêm construindo. (FREIRE, 2009, p. 65)
+
+Estes aspectos comunicacionais devem ser observados e utilizados o máximo
+possível na intenção de manter o interesse do cursista ao que esta estudando,
+pois, o curso é acessado pelo computador (ou pelo celular), que por sua vez
+podem estar conectados às redes sociais ou aplicativos, e podem vir a tirar a
+atenção do cursista ao que está estudando.
+
+Assim, cabe ao Designer Instrucional e ao Conteudista, pensar de forma
+inovadora, e dedicarem-se a conhecer tanto as novas metodologias de
+aprendizagem de adultos, quanto os processos mentais que levam ao interesse e
+motivação para continuarem a estudar online, pois se deve considerar sempre
+que
+
+      Na contemporaneidade, vivemos com clareza a predominância da mídia
+      nas atividades socioculturais. A mídia tem presença marcante no
+      trabalho, na vida diária e no entretenimento, com um poder de sedução,
+      muitas vezes, difícil de gerar resistências aos seus apelos. (FREIRE,
+      2009, p. 65)
+
+                                      = 24 =
+Neste contexto, apesar da internet disponibilizar milhares de arquivos
+utilizáveis nos livros, vídeos, podcast e propaganda, se preocupou em não
+incorrer em problemas de direitos de uso, a decisão neste aspecto foi utilizar
+sites que se propõem a fornecer conteúdos bem elaborados, de forma paga, e
+outros que fornecem em qualidade semelhante de forma gratuita (free):
+
+
+
+Multimídia
+
+      MÍDIA                  PAGO                      FREE
+
+     Imagens              StockPhotos                  FreePik
+
+ Vídeos temáticos         ShutterStock                 Pexels
+
+     eBooks             Amazon e Saraiva            Scielo e ABED
+
+Elaborado pelo autor, 2018
+
+
+
+1.2.1.3 | Estrutura Pedagógica de Conteúdos
+
+a) Textos/Slides:
+a.1 : Autoria dos docentes
+a.2 : Textos online com autorização prévia do autor (por e-mail)
+a.3 : Textos online sob licença Creative Commons
+
+b) Vídeo-Aulas:
+b.1 : Autoria dos Docentes
+b.2 : Vídeos online com autorização prévia do autor (por e-mail)
+b.3 : vídeos online sob licença Creative Commons
+
+c) Aulas-Narradas:
+c.1 : Autoria dos Docentes
+1.3 | FORMAS DE INTERAÇÃO E FEEDBACK
+
+As interações no decorrer do curso são categorizadas nas seguintes dimensões:
+
+a) Aluno/Professor
+                                         = 25 =
+b) Aluno/Aluno
+
+c) Aluno/Instituição
+
+d) Aluno/Material Didático
+
+
+
+a) Aluno/Professor (Tutoria)
+
+Esta dimensão talvez seja o ponto de maior importância no plano de interações.
+
+Para tanto, será utilizado o aplicativo WhatsApp.
+
+A experiência que o autor deste Projeto tem em Tutoria (10 anos), evidencia
+que esta iniciativa reduz muito a evasão, devido ao Tutor atender ao aluno no
+exato momento em que ele sente a dificuldade ou dúvidas.
+
+Contudo, em caso de o cursista não ter acesso ao aplicativo, o atendimento será
+feito por e-mail, que no caso do curso, o Tutor deverá ter em seu celular
+instalado o e-mail de comunicação do curso, para que possa responder ao
+cursista no momento em que recebe o e-mail.
+
+As articulações com o uso do Aplicativo WhatsApp ganham dimensões de
+rapidez no atendimento, entre os quais podem ser destacados:
+
+i) possibilidade de o cursista filmar a tela do computador narrando a dificuldade
+que se apresenta;
+
+ii) possibilidade de o Tutor filmar a tela do computador narrando como o aluno
+deverá proceder;
+
+iii) envio de áudio (aluno e professor)
+
+iv) Lembretes de prazos, tarefas, etc.
+
+v) Interação privada com o Tutor (inbox)
+
+
+
+b) Aluno/Aluno
+
+
+
+                                         = 26 =
+Esta dimensão deve ser incentivada pelo Tutor, mas sem estabelecer meios para
+tal interação, devido a liberdade e facilidade que cada um terá para falar com
+seus colegas.
+
+Contudo, devido à Tutoria ocorrer pelo aplicativo WhatsApp, esta dimensão
+acaba amplificada pelo próprio curso, pois podem desenvolver conversas “in
+box”.
+
+
+
+c) Aluno/Instituição
+
+Acredito que esta é uma das preocupações que a Gestão do Curso deverá ter,
+pois tem assuntos que não estão no alcance do Tutor, e assim, o cursista não
+pode ficar sem atendimento quando necessitar de declarações, documentos,
+solicitar demandas, etc.
+
+Assim, para fazer contato com a instituição o cursista terá os seguintes canais:
+
+i) e-mail
+
+ii) telefone
+
+iii) mensagem no sítio da EJAP
+
+
+
+d) Aluno/Material Didático
+
+O foco real do curso é justamente esta interação, pois ela que permitirá o
+cursista a aprender.
+
+Os processos pedagógicos e andragógicos são realizados justamente no material
+didático, e esta interação deve ser a mais simples possível, na expectativa de
+que o cursista não encontre obstáculos para acesso às aulas.
+
+Devido o foco do curso é usar mais máximo vídeo-aulas do que textos, esta
+disponibilidade de mídias deverá prever a usabilidade em diversas plataformas
+de celulares e Tablets (Apple, Android e Windows Phone).
+
+Da mesma forma os textos e os slides, e ainda, os Áudios.
+
+
+                                      = 27 =
+A preocupação é necessária porque há formatos de alta qualidade, mas que nem
+sempre são compatíveis com todas as plataformas de celulares.
+
+Por exemplo, os vídeos criados em iPad são exportados em formato .MOV (alta
+qualidade), porém não são enviados pelo WhatsApp, porque não aceita este
+formato.
+
+Em relação a slides também. Slides feitos em aplicativo Keynote resultam em
+slides de alta qualidade, em formato .KEY mas só abrem em dispositivos
+Apple.
+
+Para evitar problemas de usabilidade, se delineou os seguintes padrões:
+
+i) Formato de vídeo e aula narrada: MP4
+
+ii) Formato de Texto: PDF sem senha
+
+iii) Formato de Slide: PDF sem senha
+
+iv) Formato de Áudio: MP3
+
+
+
+É importante ressaltar que estas interações fazem relações diretas ao processo
+de aprendizagem, e por isso são mais específicas, e merecem total atenção na
+concepção do curso.
+
+Para tanto, se tem diversas opções de avaliar em EaD, porém, seguindo a
+proposta do curso de ser simples, se definiu que as atividades do curso serão
+nestes formatos:
+
+i) Fórum;
+
+ii) Envio de Atividade Individual;
+
+iii) Envio de Atividade em Grupos de 3 cursistas.
+
+E se definiu como padrão que a cada tópico estudado, sempre terá um Fórum e
+um Envio de Atividade, ficando a cargo do Tutor definir se esta será individual
+ou em grupos
+
+
+
+                                     = 28 =
+1.3.1 | Fórum
+
+Os Fóruns levam o Cursista a desenvolver a opinião sobre o assunto estudado, e
+a opinar nas postagens dos colegas, de forma a se criar um saber colaborativo, a
+partir dos conhecimentos adquiridos nos estudos.
+
+Para obter sucesso neste tipo de Avaliação, o cursista deverá:
+
+i) Postar nos 3 primeiros dias do Fórum (após este período não será considerada
+a postagem);
+
+ii) Comentários significativos nas postagens dos colegas (não serão
+considerados os comentários estilo “Concordo colega”)
+
+
+
+1.3.2 | Envio de Atividade
+
+O envio de atividade é gerenciado pelo Tutor, no sentido de definir se será
+individual ou em Grupos.
+
+O envio deverá seguir este critério:
+
+i) máximo de 2 parágrafos por questão
+
+ii) aderência ao tema estudado
+
+iii) correção gramatical
+
+
+
+
+                                       = 29 =
+2. DESIGN DO CURSO
+
+O Design do curso apresentado seguiu os ensinamentos desenvolvidos no
+curso, e se procurou desenvolver os roteiros e os storyboard de situações reais
+do curso que se propõe apresentar neste trabalho.
+
+      No processo de elaboração de um recurso educacional, o Storyboard é
+      uma ferramenta para auxiliar a equipe multidisciplinar responsável pelo
+      desenvolvimento do curso e servir de protótipo para a visualização prévia
+      do conteúdo organizado em telas e representado pela combinação de
+      textos, imagens estáticas e orientações técnicas sobre o que deve ser
+      produzido. (FILATRO e SANTOS, 2014)
+
+A partir desta concepção, de fato o storyboard desenvolvido no padrão
+ensinado no curso possibilitou uma visão do que se queria alcançar com a vídeo
+aula, e assim, seguindo os padrões que no curso foi orientado, se pode ter a
+vídeo-aula pronta, a qual pode ser assistida neste link: http://bit.ly/2Es4B7l
+
+Importante destacar que os materiais do curso já estão prontos, textos e vídeos,
+os quais foram roteirizados de acordo com as aulas ensinadas no curso, e depois
+de prontos os roteiros, foi possível desenvolver os storyboards para produção
+final.
+
+
+
+
+                                       = 30 =
+3. CONSIDERAÇÕES FINAIS
+
+Ao final deste laborioso projeto se pode concluir que o Designer Instrucional
+tem um árduo trabalho em seu fazer pedagógico, uma vez que o trabalho de um
+projeto de D.I. é fundamentalmente uma ação educacional, com seus efeitos
+diretos na relação ensino-aprendizagem.
+
+A experiência na elaboração deste trabalho foi das mais significativas, eis que
+levou o autor a estudar, reestudar e desenvolver saberes em todos os tópicos
+criados para compor o trabalho em si.
+
+Se faz um ressalto em relação ao uso dos conteúdos do próprio curso para dar
+base ao texto aqui apresentado, e se diga: poucas foram as citações fora dos
+textos indicados nos módulos do curso.
+
+Outro ponto importante a ser destacado na redação deste texto, é a assertividade
+em relação ao “Roteiro de D.I.”, onde ouve a preocupação do SENAC tanto em
+proporcionar um parâmetro para que o cursista saiba como desenvolver seu
+trabalho, como em garantir igualdade à toda a turma sob as condições na
+avaliação, eis que, a partir de um mesmo modelo, vai do empenho de cada um
+desenvolver o seu próprio trabalho.
+
+Se pode afirmar que: SE APRENDEU MUITO para desenvolver este trabalho,
+e com certeza, os conteúdos do curso abrangeram todos os tópicos elencados no
+Roteiro de D.I., o que foi oportuno à cada cursista não ter que buscar muitas
+literaturas extras.
+
+E no caso específico deste trabalho, ora apresentado para avaliação da banca do
+SENAC, será implantado em sua íntegra (com exceção dos custos), no ciclo de
+ofertas da instituição pesquisada,        onde se tem certeza de que: os
+conhecimentos indicados no curso foram fundamentais para a concepção do
+curso Formação de Tutores para EaD.
+
+
+
+
+                                     = 31 =
+REFERÊNCIAS
+
+
+
+ABED. Educação Brasileira de Qualidade: Procura-se um Futuro. São Paulo:
+ABED, 2015.
+
+ARAUJO, Carlos. MARQUES, Sueli. Atividades em Ambientes Virtuais de
+Aprendizagem in Educação à Distância, o Estado da Arte. São Paulo: Pearson,
+2009)
+
+CLEMENTINO, Adriana. Planejamento Didático (e-book 6). São Paulo:
+SENAC, 2014
+
+FILATRO, Andréa. PALANGE, Ivete. Processos de Produção em Design
+Instrucional. e-book 6. São Paulo: SENAC, 2014
+
+FILATRO, Andréa. SANTOS, Cristiane. Processo de Criação de StoryBoard.
+(ebook1). São Paulo: SENAC, 2014
+
+FREIRE, Wendel. Tecnologia e Educação. As mídias na prática docente. Rio
+de Janeiro: WAK, 2009.
+
+GOTTARDI, Mônica. A autonomia na aprendizagem em educação a distância:
+competência a ser desenvolvida pelo aluno. RBAAD - Revista Brasileira de
+Aprendizagem Aberta e à Distância, vol. 14, out2015.
+
+KENSKY, Vani. Schultz, Janine. Teorias e Abordagens Pedagógicas (e-book 1)
+. São Paulo: SENAC, 2014
+
+MARQUARDT, Eduard. Processos de Criação de Roteiros de Textos e
+Atividades. São Paulo: Senac, 2014, p 3
+
+MUNHOZ, Antônio. Como ser um aluno eficaz. Curitiba: Intersaberes, 2014
+
+
+
+
+                                  = 32 =
+= 33 =
+
